@@ -24,13 +24,13 @@ Import-Module .\Find-ADObject.ps1
 
 Run function:
 ```powershell
-Find-ADObject -Name *name*
+Find-ADObject -Name *SearchText*
 ```
 
 Run function and specify category:
 
 ```powershell
-Find-ADObject -Name SearchText -Category Users
+Find-ADObject -Name *SearchText* -Category Users
 ```
 Category can be "Users", "Computers", "Groups" or "Printers"
 
