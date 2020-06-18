@@ -36,7 +36,7 @@ Category can be "Users", "Computers", "Groups" or "Printers"
 
 **Screenshots**  
 
-
+![alt tag](images/example_1.png)
 
 **Changelog**  
 * 18.06.2020
